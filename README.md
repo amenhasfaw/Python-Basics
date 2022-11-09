@@ -2,6 +2,7 @@
 ---
 ## Resources
 
+### DSA with  Python on UDACITY : [Link](https://learn.udacity.com/courses/ud513)
 
 ### DataCamp Introduction to Python: [Link](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1)
 
